@@ -80,11 +80,11 @@ nav.sticky .menu a:hover{
   border-bottom: none;
 }
 .navbar .media-icons a{
-  font-size: 30px;
+  font-size: 40px;
   margin: 0px 10px;
 }
 .navbar .media-icons a:hover{
-  font-size: 35px;
+  font-size: 45px;
   transition:  0.5s ease;
 }
 #quora{
